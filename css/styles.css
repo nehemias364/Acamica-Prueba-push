@@ -38,7 +38,7 @@ body{
 }
 .categorias_flex li {
 	list-style-type: none;
-	background-color: rgb(209, 77, 0);
+	background-color: rgb(130, 4, 248);
 	width: 100%;
 	transition: 0.9s;
 	flex-direction: row;
