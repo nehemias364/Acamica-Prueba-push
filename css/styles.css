@@ -14,7 +14,7 @@ body{
 	padding: 0;
 	font-family: SciFly;
     -webkit-flex-direction: column;
-	background-color: rgb(0, 209, 45);
+	background-color: rgb(0, 14, 209);
 }
 .contenedor_informacion{
 	display: flex;
@@ -25,7 +25,7 @@ body{
     -webkit-flex-direction: column;
     min-width: 30%;
     max-width: 30%;
-	background-color: rgb(223, 130, 24);
+	background-color: rgb(24, 223, 41);
 }
 .categorias_flex img {
 	 border-radius: 25px;
@@ -38,7 +38,7 @@ body{
 }
 .categorias_flex li {
 	list-style-type: none;
-	background-color: rgb(130, 4, 248);
+	background-color: rgb(248, 4, 167);
 	width: 100%;
 	transition: 0.9s;
 	flex-direction: row;
